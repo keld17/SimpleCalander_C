@@ -18,13 +18,13 @@
     <ClCompile Include="main.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="calander.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="input.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="utils.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="calendar.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
