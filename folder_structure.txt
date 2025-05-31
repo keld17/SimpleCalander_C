@@ -1,0 +1,50 @@
+폴더 PATH의 목록입니다.
+볼륨 일련 번호는 EA05-E301입니다.
+C:.
+│  .gitattributes
+│  .gitignore
+│  calendar.c
+│  calendar.h
+│  folder_structure.txt
+│  input.c
+│  input.h
+│  main.c
+│  Makefile
+│  SimpleCalander_C.sln
+│  SimpleCalander_C.vcxproj
+│  SimpleCalander_C.vcxproj.filters
+│  SimpleCalander_C.vcxproj.user
+│  utils.c
+│  utils.h
+│  
+├─SimpleCalander_C
+│  └─x64
+│      └─Debug
+│          │  calander.obj
+│          │  calendar.obj
+│          │  command.obj
+│          │  input.obj
+│          │  main.obj
+│          │  SimpleCalander_C.exe.recipe
+│          │  SimpleCalander_C.ilk
+│          │  SimpleCalander_C.log
+│          │  utils.obj
+│          │  vc143.idb
+│          │  vc143.pdb
+│          │  
+│          └─SimpleCalander_C.tlog
+│                  CL.command.1.tlog
+│                  Cl.items.tlog
+│                  CL.read.1.tlog
+│                  CL.write.1.tlog
+│                  link.command.1.tlog
+│                  link.read.1.tlog
+│                  link.secondary.1.tlog
+│                  link.write.1.tlog
+│                  SimpleCalander_C.lastbuildstate
+│                  
+└─x64
+    └─Debug
+            SimpleCalander_C.exe
+            SimpleCalander_C.pdb
+            
